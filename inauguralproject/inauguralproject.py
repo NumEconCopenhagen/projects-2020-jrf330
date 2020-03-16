@@ -1,15 +1,7 @@
-def square(x):
-    """ square numpy array
+import numpy as np 
+
+def u_func(l, c, v, epsilon):
     
-    Args:
+     return np.log(c) - v * (l**(1+1/epsilon)/(1+1/epsilon))
     
-        x (ndarray): input array
-        
-    Returns:
-    
-        y (ndarray): output array
-    
-    """
-    
-    y = x**2
-    return y
+

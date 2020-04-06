@@ -1,14 +1,18 @@
-# Data analysis project
+# Data Analysis Project
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+My project is titled Data Project: Pharmaceutical Prices and Competition and is about the effect of competition on pharmacetical prices.
 
-The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
+The results of the project can be seen from running [Data Project Pharmaceutical Prices and Competition.ipynb](Data Project Pharmaceutical Prices and Competition.ipynb).
 
-This **loades two datasets**:
+This loades one datasets:
 
-1. INDKP101.xlsx downloaded from statistikbanekn.dk/INDKP101
-1. RAS200.xlsx downloaded from statistikbanekn.dk/RAS200
+1. lmpriser_eSundhed_200323.xlsx downloaded from https://www.esundhed.dk/-/media/Files/Publikationer/Emner/Medicin/14-dags-medicinpriser/lmpriser_eSundhed_200323.ashx?la=da&hash=4FD89F1477E085954E58C4A16463BF11
+
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
 
-``pip install matplotlib-venn``
+Panda
+Matplotlib
+ipywidgets
+numpy
+datetime

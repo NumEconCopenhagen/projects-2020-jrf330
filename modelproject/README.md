@@ -1,7 +1,6 @@
-# Overlapping Generation Model with Pay-As-You-Go
+Our project is titled Overlapping Generation Model with Pay-As-You-Go and is about solving and comparing a basic OLS model with one which includes social security in the form of PAYG.
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+The results of the project can be seen from running [OLG model with PAYG.ipynb].
 
-The **results** of the project can be seen from running [modelproject.ipynb](modelproject.ipynb).
+**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires numpy, optimize from scipy, sympy, and matplotlib.pyplot.
 
-**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires no further packages.

@@ -1,4 +1,4 @@
-# Model analysis project
+# Overlapping Generation Model with Pay-As-You-Go
 
 Our project is titled **PROJECT TITLE** and is about EXPLAIN.
 
